@@ -1,0 +1,76 @@
+V MODS MANAGER - TERMS OF USE
+Last updated: 2026-10-14
+
+Please read these terms before installing or using V Mods Manager ("the manager").
+By installing or using it, you accept them. If you do not accept them, do not install
+or use the manager.
+
+1. WHAT THE MANAGER IS
+V Mods Manager is a free tool made by Dalviiio that places script mods in Grand Theft
+Auto V (Legacy and Enhanced) when you play with mods, and removes them when the game
+closes, so that the game stays unmodified the rest of the time.
+
+V Mods Manager is an independent project. It is not made, endorsed or supported by
+Rockstar Games or Take-Two Interactive. "Grand Theft Auto", "GTA" and related names
+and logos are trademarks of their respective owners.
+
+2. MODS ARE MADE BY OTHER PEOPLE
+The mods you import are made by third parties, not by the author of the manager.
+Mod files such as .asi and .dll are programs: they run inside the game with the same
+rights as your Windows account and can do anything a program can do. Only use mods
+from sources you trust. You are responsible for the mods you choose to install and
+for respecting their authors' licenses.
+
+3. THE SECURITY SCAN IS A HELP, NOT A GUARANTEE
+The manager scans every imported mod for suspicious signs, and can also ask
+Microsoft Defender to scan it. This scan helps you decide, but it is NOT 100%
+reliable: a harmful mod can go unnoticed and a harmless mod can be flagged. A green
+result does not prove that a mod is safe.
+
+4. GTA ONLINE AND ANTI-CHEAT
+Mods are for Story Mode only. Using mods in GTA Online can get your account banned by
+Rockstar Games. To play with mods, the manager turns BattlEye (the game's anti-cheat)
+off for the modded session only. Before playing online, use "Launch vanilla", which
+checks the game folder and moves mod files out first. The manager does its best to
+leave no mod in the game, but it cannot guarantee how Rockstar Games or BattlEye will
+treat your account. Playing online is at your own risk.
+
+5. YOUR GAME FILES
+The manager is designed to keep your game unmodified: it records every change before
+making it, backs up any file it replaces and puts everything back when the game
+closes. It never deletes a file it did not place. Despite this care, problems can
+happen (power cut, other software, game updates). If your game ever misbehaves, use
+"Restore game to vanilla" in the manager, then your launcher's "verify game files"
+option.
+
+Optional features change things outside the manager's own folder only when you turn
+them on and confirm:
+ - "Keep previous game versions" copies and restores the game's own files;
+ - "Let mods write in the game folder" gives your own Windows account the right to
+   modify files in the game folder (useful when the game is installed in
+   Program Files). Turning it off removes exactly that right.
+
+6. PRIVACY
+The manager has no telemetry and no tracking. It only uses the Internet when you
+allow it:
+ - to check and download frameworks from their official sources;
+ - to check for new versions of the manager;
+ - to send a problem report, only when you click Send. You see the full content of
+   the report before it is sent. Your Windows user name and profile path are removed
+   from it. The report server receives your IP address, as any website does.
+Your mod library, settings and logs stay on your computer, in
+%LocalAppData%\VModsManager.
+
+7. NO WARRANTY
+The manager is provided "as is", without any warranty, express or implied, including
+fitness for a particular purpose. To the maximum extent allowed by law, the author is
+not liable for any damage, loss of data, game or account issue, or any other problem
+arising from the use of the manager or of the mods it installs.
+
+8. THIRD-PARTY COMPONENTS
+The manager uses third-party components under their own licenses (fonts, icons,
+archive reading). They are listed in THIRD-PARTY-NOTICES.txt next to the manager.
+
+9. CHANGES AND CONTACT
+These terms may change with new versions of the manager; the version shipped with
+the manager applies. Questions and help: https://discord.gg/FanVqwFZR6
